@@ -11,6 +11,11 @@ package edu.escuelaing.arem.calculator;
  */
 public class TrigCalculator {
     
+    /**
+     * 
+     * @param n
+     * @return sin
+     */
     public static double sin(double n){
         
         return Math.sin(n);
